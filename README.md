@@ -1,2 +1,2 @@
 # STAT6021
-UVA Linear Models for Data Science
+UVA STAT 6021: Linear Models for Data Science
